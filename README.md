@@ -1,14 +1,10 @@
 # ShopOSINT - OSINT sur liens de paiement
 
-```
-███████╗██╗  ██╗ ██████╗ ██████╗  ██████╗ ███████╗██╗███╗   ██╗████████╗
-██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔═══██╗██╔════╝██║████╗  ██║╚══██╔══╝
-███████╗███████║██║   ██║██████╔╝██║   ██║███████╗██║██╔██╗ ██║   ██║
-╚════██║██╔══██║██║   ██║██╔═══╝ ██║   ██║╚════██║██║██║╚██╗██║   ██║
-███████║██║  ██║╚██████╔╝██║     ╚██████╔╝███████║██║██║ ╚████║   ██║
-╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝      ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝
-            Payment Link OSINT · Stripe · SumUp · Revolut · Lydia
-```
+
+<p align="center">
+  <img src="1.png" alt="ShopOSINT" width="600">
+</p>
+
 
 **ShopOSINT** est un outil d'OSINT qui résout silencieusement un lien de paiement ou un profil
 (Stripe, SumUp, Revolut, Lydia) en informations marchand & identité, sans payer, sans carte,
